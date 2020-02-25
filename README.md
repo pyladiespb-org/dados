@@ -10,5 +10,6 @@ Repositório para indicação de base de dados prontas ou disposição de dados 
 - [IPEA - Instituto de Pesquisa Econômica Aplicada](http://www.ipeadata.gov.br/Default.aspx)
 - [IPEA - Atlas da Violência - Homicídios Faixa Etária de 15 - 29 anos - Mulheres](http://www.ipea.gov.br/atlasviolencia/dados-series/74)
 - [IPEA - Atlas da Violência - Homicídios Faixa Etária de 15 - 29 anos - Homens](http://www.ipea.gov.br/atlasviolencia/dados-series/71)
-- [Expectativa de Vida - Organização mundial de Saúde](http://apps.who.int/gho/data/view.main.SDG2016LEXREGv?lang=en)
+- [Dados abertos da Organização Mundial de Saúde](http://apps.who.int/gho/data/node.home)
+- [Expectativa de Vida - Organização Mundial de Saúde](http://apps.who.int/gho/data/view.main.SDG2016LEXREGv?lang=en)
 - [IPEA - Atlas da Violência](http://www.ipea.gov.br/atlasviolencia/downloads)
